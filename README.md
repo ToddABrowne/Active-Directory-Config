@@ -24,10 +24,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Setup Resources in Azure and Ensure Connectivity bewtween the client and domain controller
+- Install Active Directory and Create an Admin and Normal User Account
+- Join CLient-1 to Active Directory Domain and Setup Remote Desktop for Non-Administrative Users on Client-1
+- Create a large group of additional users
 
 <h2>Deployment and Configuration Steps</h2>
 
