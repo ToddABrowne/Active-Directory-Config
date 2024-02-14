@@ -56,7 +56,7 @@ Creating the virtual machine DC-1 as the domain controller and creating virtual 
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The purpose of Active Directory is to centralized, authentication, authorization, and management of network resources. This includes users, computers, groups, and devices within an organization's network. Jane Doe was created as Admin. CLient-1 DNS private ip address is being pointed to DC-1 private id address.
   
 </p>
 <br />
