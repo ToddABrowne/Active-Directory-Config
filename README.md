@@ -56,7 +56,7 @@ Creating the virtual machine DC-1 as the domain controller and creating virtual 
 
 
 <p>
-The purpose of Active Directory is to centralized, authentication, authorization, and management of network resources. This includes users, computers, groups, and devices within an organization's network. Jane Doe was created as Admin. CLient-1 DNS private ip address is being pointed to DC-1 private id address.
+The purpose of Active Directory is to centralized, authentication, authorization, and management of network resources. This includes users, computers, groups, and devices within an organization's network. Jane Doe was created as Admin. Client-1 DNS private ip address is being pointed to DC-1 private id address.
   
 </p>
 <br />
@@ -65,8 +65,12 @@ The purpose of Active Directory is to centralized, authentication, authorization
 <img src="https://i.imgur.com/o53xbHr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 </p>
+<img src="https://i.imgur.com/Uhpew83.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
 <img src="https://i.imgur.com/tjZmfaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Joining Client-1 to DC-1 for the purpose of accessing and management. Giving employees remote access to DC-1. Creating 2000 employees with their own username and same passowrd.
+
 </p>
 <br />
