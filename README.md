@@ -24,9 +24,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Setup Resources in Azure and Ensure Connectivity between  Cient-1 and DC-1 (Domain Controller)
-- Install Active Directory, Create Admin, and Change CLient-1 DNS Private IP Address
-- Join CLient-1 to Active Directory Domain and Setup Remote Desktop for Non-Administrative Users on Client-1
+- Setup Resources in Azure and Ensure Connectivity between Cient-1 and DC-1 (Domain Controller)
+- Install Active Directory, Create Admin, and Change Client-1 DNS Private IP Address
+- Join Client-1 to Active Directory Domain and Setup Remote Desktop for Non-Administrative Users on Client-1
 - Create a large group of additional users
 
 <h2>Deployment and Configuration Steps</h2>
